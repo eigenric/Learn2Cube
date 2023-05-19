@@ -3,7 +3,7 @@
 Programa Interactivo para aprender a resolver el Cubo de Rubik utilizando OpenCV para la asignatura de Computación Ubicua e Inteligencia Ambiental.
 
 Se desarrollará un programa interactivo que brinde a los usuarios la capacidad de aprender a resolver el Cubo de Rubik 
-paso a paso mediante difernetes métodos (Principiantes / CFOP). El programa proporcionará una interfaz intuitiva y amigable consciente del contexto que permitirá a los usuarios interactuar con el cubo reconociendo su posición y proporcionando guías visuales - auditivas para realizar los movimientos necesarios.
+paso a paso mediante diferentes métodos (Principiantes / CFOP). El programa proporcionará una interfaz intuitiva y amigable consciente del contexto que permitirá a los usuarios interactuar con el cubo reconociendo su posición y proporcionando guías visuales - auditivas para realizar los movimientos necesarios.
 
 - **Reconocimiento e Identificación de Colores**:
 Basándonos el proyecto de qbr, utilizaremos técnicas de reconocimiento de imágenes para detectar y reconocer los diferentes colores de las caras del cubo de Rubik.  El programa será capaz de interpretar la posición actual del cubo en función de la disposición de los colores detectados.
