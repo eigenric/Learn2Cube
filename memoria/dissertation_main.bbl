@@ -1,0 +1,14 @@
+\begin{thebibliography}{1}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem["Koomen(2019)]{QBR}
+Kim" "Koomen.
+\newblock Qbr, a webcam-based 3x3x3 rubik's cube solver written in python 3 and
+  opencv., 2019.
+\newblock URL \url{https://github.com/kkoomen/qbr}.
+
+\end{thebibliography}
