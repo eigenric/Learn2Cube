@@ -1,3 +1,8 @@
 {
-    "triggerTaskOnSave.selectedTask": "Make"
+    "triggerTaskOnSave.tasks": {
+        "build": [
+            "*.tex",
+        ],
+    },
+    "triggerTaskOnSave.selectedTask": "Make",
 }
